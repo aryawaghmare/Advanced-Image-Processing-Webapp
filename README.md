@@ -1,5 +1,3 @@
-# Advanced-Image-Processing-Webapp
-
 # Advanced Image Processing Web App using Streamlit
 
 ## Project Overview
